@@ -1,18 +1,28 @@
 # surfs_up
 
 
-Structure, Organization, and Formatting (6 points)
+## Analysis 
 
-The written analysis has the following structure, organization, and formatting:
-There is a title, and there are multiple sections. (2 pt)
-Each section has a heading and subheading. (2 pt)
-Links to images are working and displayed correctly. (2 pt)
-Analysis (14 points)
+In order to open up a shop (Surf n'shake) that sells ice cream and surf equipment in Hawaii, we need to better understand the weather.
 
-The written analysis has the following:
-Overview of the statistical analysis:
-The purpose of the analysis is well defined. (3 pt)
-Results:
-There is a bulleted list that addresses the three key differences in weather between June and December. (6 pt)
-Summary:
-There is a high-level summary of the results and there are two additional queries to perform to gather more weather data for June and December. (5 pt)
+In assosiation with W. Avy as a investor, we decide to do a weather analysis.
+
+For the purpose of this analysis we are concerned about the the temperatures trends on Oahu. So we can set our mind at ease by analyzing temperatures levels and presenting to Mr. W. Avy the data that backs up Oahu as the perfect place to surf. 
+
+W. Avy supplied a full year of data he wants us to use for the analysis. We decide to parse the data in two months: June and December.
+
+## Results:
+
+To better understand the temperature trends in the months on June and December we generate the summary statistics for both months:
+
+- the mean temperature for both June and December is above 70 degrees Fahrenheit, which means that in average the temperature is pleasant.
+
+- the minimum temperature in December is a bit cold, but the maximum temperature is pretty warm.
+
+- the temperatures don't vary too much between summer and winter, which means that people can eat ice cream and surf all year-round.
+
+## Summary:
+
+We can see that the temperature trends are good for the business. About the precipitation we can observe that in 25% of the days it doesn't rain and even in 75% of the days the rain is not that much. But there are some days when can rain a lot.
+
+We analized the temperatures and precipitation trend from June and December. For precipitation we included an analysis for the 2 stations that gathered more data and the station that had the higher maximum precipitation data as well in December, as it is the month that rains more between the two of them.
